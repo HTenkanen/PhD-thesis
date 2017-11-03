@@ -3,8 +3,6 @@
 # PhD-thesis
 Repository for documenting all the tools, scripts and workflows part of the PhD dissertation: Henrikki Tenkanen (2017) "Capturing time in space - Dynamic analysis of accessibility and mobility to support spatial planning using open data and tools"
 
-_**Missing contents will be added here after the public defense, and once all Chapters have been accepted for publication.**_
-
 ### Chapter I
 
 Tenkanen, H., M. Salonen, M. Lattu & T. Toivonen (2015). Seasonal fluctuation of riverine navigation and accessibility in Western Amazonia: An analysis combining a cost-efficient GPS-based observation system and interviews. *Applied Geography* 63, 273-282.
